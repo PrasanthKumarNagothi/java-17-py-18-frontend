@@ -1,0 +1,14 @@
+.heading{
+    color: brown;
+    text-decoration: underline rebeccapurple;
+}
+.paragraph{
+    color:rgb(55, 213, 19) !important;
+    font-style:italic;
+    font-size: 25px;
+    text-decoration:underline pink;
+    word-break: break-all;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

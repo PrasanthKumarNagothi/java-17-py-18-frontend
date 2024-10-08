@@ -1,0 +1,24 @@
+.box
+{
+    border: 1px solid red;
+    height: 150px;
+    width: 150px;
+    margin: 4px;
+}
+.box2{
+    position:absolute;
+    top: 4px;
+    left: 162px;
+}
+.box3{
+    position:relative;
+    top: 4px;
+    left: 316px;
+}
+.box1{
+    position: sticky;
+    top:200px;
+}
+body{
+    height: 300vh;
+}

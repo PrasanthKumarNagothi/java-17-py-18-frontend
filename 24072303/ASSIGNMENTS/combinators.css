@@ -1,0 +1,16 @@
+.container p{
+    color: blue;
+}
+.container>p{
+    color: green;
+}
+h2+p{
+    color: red;
+}
+h3~p{
+    color: red;
+}
+.container span{
+    background-color: yellow;
+    color: red;
+}
